@@ -18,9 +18,8 @@ Fazer da etapa 1 até a 5 somente.
 ### → Challenge Dev:
 
 [Plugin DevOps Challenge](devops_challenge.php)
-# Desafio de Debugging WordPress - Devops Challenge Júnior
 
-## Objetivo
+### Objetivo
 Este plugin WordPress contém 10 erros diferentes que precisam ser identificados e corrigidos. O objetivo é testar suas habilidades de debugging, conhecimento em PHP e WordPress, além da capacidade de resolver problemas de forma estruturada.
 
 ## Aspectos Abordados no Desafio
