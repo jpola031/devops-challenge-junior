@@ -110,7 +110,7 @@ Este desafio foi criado para avaliar candidatos a posições júnior, testando t
 3. Aguarde algum contribuidor realizar o review.
 4. Dados de acesso do WordPress e Lightsail com tudo configurado e funcionando
 5. Prints e url "http://PublicIpAddress/wp-login.php"
-6. Documentação Completa com prints e Código utilizado (Opcional)
-7. Desenho de Arquitetura (Opcional)
+6. Documentação completa com prints e código utilizado challenge dev (Opcional)
+7. Desenho de arquitetura do challenge ops (Opcional)
 8. Plugin informado arrumado e versionado
 9. Suba o plugin para a sua instalação WordPress Lightsail e ative o mesmo.
