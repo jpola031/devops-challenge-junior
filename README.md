@@ -49,7 +49,7 @@ Este plugin WordPress contém 10 erros diferentes que precisam ser identificados
 - Nomenclatura de funções
 - Estrutura de plugins WordPress
 
-## Erros Presentes no Código
+### Erros Presentes no Código
 
 ### 1. Variável Global
 **Dica:** Lembre-se de inicializar suas variáveis antes de usá-las
@@ -81,7 +81,7 @@ Este plugin WordPress contém 10 erros diferentes que precisam ser identificados
 ### 10. Hook de CSS
 **Dica:** Existem hooks específicos para adicionar CSS no WordPress
 
-## Resultado Esperado
+### Resultado Esperado
 Após corrigir todos os erros, o plugin deve:
 - Exibir uma linha aleatória da música "Segure o Tchan" no painel administrativo
 - Funcionar corretamente em diferentes idiomas
@@ -90,7 +90,7 @@ Após corrigir todos os erros, o plugin deve:
 - Não gerar erros PHP ou avisos
 - Seguir as boas práticas de desenvolvimento WordPress
 
-## Habilidades Avaliadas
+### Habilidades Avaliadas
 - Conhecimento em PHP
 - Familiaridade com WordPress
 - Capacidade de debugging
@@ -104,7 +104,7 @@ Após corrigir todos os erros, o plugin deve:
 Este desafio foi criado para avaliar candidatos a posições júnior, testando tanto conhecimentos técnicos quanto a capacidade de identificar e resolver problemas de forma estruturada.
 
 
-### Entrega
+## Entrega
 1. Efetue o fork deste repositório e crie um branch com o seu nome e sobrenome. (exemplo: fulano-dasilva)
 2. Após finalizar o desafio, crie um Pull Request.
 3. Aguarde algum contribuidor realizar o review.
@@ -114,3 +114,5 @@ Este desafio foi criado para avaliar candidatos a posições júnior, testando t
 7. Desenho de arquitetura do challenge ops (Opcional)
 8. Plugin informado arrumado e versionado
 9. Suba o plugin para a sua instalação WordPress Lightsail e ative o mesmo.
+
+(Dados de acesso devem ser enviados para o email: lucas.costa@apiki.com)
