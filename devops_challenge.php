@@ -1,3 +1,4 @@
+<?php
 /**
  * @package Devops_challenge_Junior
  * @version 1.0
